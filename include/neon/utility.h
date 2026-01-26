@@ -36,4 +36,4 @@ struct pair {
     constexpr pair(const T1& a, const T2& b) : first(a), second(b) {}
 };
 
-}
+} // namespace neon
